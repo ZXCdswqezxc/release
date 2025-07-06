@@ -1,14 +1,4 @@
---[[
- .____                  ________ ___.    _____                           __                
- |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
- |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
- |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
- |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
-         \/          \/         \/    \/                \/     \/     \/                   
-          \_Welcome to LuaObfuscator.com   (Alpha 0.10.9) ~  Much Love, Ferib 
-
-]]--
-
+-- 32vision cursed you, skid
 wait(3);
 loadstring(game:HttpGet("https://pastebin.com/raw/gimbTwW1"))();
 getgenv().S = {PS=game:GetService("Players"),RS=game:GetService("RunService"),WS=game:GetService("Workspace"),UIS=game:GetService("UserInputService"),TS=game:GetService("TweenService"),LS=game:GetService("Lighting"),CG=game:GetService("CoreGui"),SG=game:GetService("StarterGui"),SP=game:GetService("StarterPack"),SR=game:GetService("StarterPlayer"),RP=game:GetService("ReplicatedStorage"),RF=game:GetService("ReplicatedFirst"),SS=game:GetService("SoundService"),TV=game:GetService("TeleportService"),BS=game:GetService("BadgeService"),PL=game:GetService("PolicyService"),PF=game:GetService("PathfindingService"),DS=game:GetService("DataStoreService"),CH=game:GetService("Chat"),MSG=game:GetService("MessagingService"),FS=game:GetService("FriendService"),INS=game:GetService("InsertService"),TM=game:GetService("Teams"),SGv=game:GetService("StarterGear"),VR=game:GetService("VRService"),GU=game:GetService("GuiService"),TScr=game:GetService("TextService"),DB=game:GetService("Debris"),PH=game:GetService("PhysicsService"),LOC=game:GetService("LocalizationService"),TST=game:GetService("TestService"),VS=game:GetService("VoiceChatService"),NS=game:GetService("NotificationService"),HS=game:GetService("HttpService"),CS=game:GetService("CollectionService"),CP=game:GetService("ContentProvider"),PPS=game:GetService("ProximityPromptService"),TCS=game:GetService("TextChatService"),ES=game:GetService("ExperienceService"),PSS=game:GetService("PointsService"),GS=game:GetService("GroupService"),MS=game:GetService("MarketplaceService")};
