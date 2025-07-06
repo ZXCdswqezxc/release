@@ -2160,10 +2160,10 @@ end,Tooltip=">_<"});
 local originalFallenPartsDestroyHeight = S.WS.FallenPartsDestroyHeight;
 addToggleWithNotify(MiscUtilsGroup, "DestroyVoidToggle", {Text="DestroyVoid",Default=false,Callback=function(v)
 	if v then
-		if (originalFallenPartsDestroyHeight == NaN) then
+		if (originalFallenPartsDestroyHeight == 0/0) then
 			originalFallenPartsDestroyHeight = -500;
 		end
-		S.WS.FallenPartsDestroyHeight = NaN;
+		S.WS.FallenPartsDestroyHeight = 0/0;
 		Library:Notify(">_< on", 3);
 	else
 		S.WS.FallenPartsDestroyHeight = originalFallenPartsDestroyHeight;
